@@ -4,10 +4,10 @@
 ### Data Analyst Junior | Étudiant en Analyse de Données
 
 Je suis étudiant en analyse de données au Collège La Cité (Canada), actuellement en fin de formation.
-J’ai plus de 4 ans d’expérience professionnelle en service à la clientèle et en analyse de la qualité chez Bouygues Telecom (via Foundever), où j’ai travaillé sur des indicateurs de performance, des rapports analytiques et le contrôle qualité.
+J’ai plus de 4 ans d’expérience professionnelle en service à la clientèle Orange CI et en tant que analyste qualité chez Bouygues Telecom France (via Foundever), où j’ai travaillé sur des indicateurs de performance, des rapports analytiques et le contrôle qualité.
 
 
-Je suis actuellement en reconversion vers un poste de Data Analyst junior et je développe un portfolio de projets en analyse de données.
+Je suis actuellement en reconversion vers un poste de Data Analyst junior .
 
 # Compétences techniques
 
