@@ -9,7 +9,7 @@ J’ai plus de 4 ans d’expérience professionnelle en service à la clientèle
 
 Je suis actuellement en reconversion vers un poste de Data Analyst junior et je développe un portfolio de projets en analyse de données.
 
-#Compétences techniques
+# Compétences techniques
 
 Langages : SQL, Python
 Analyse de données : nettoyage, exploration, analyse descriptive
@@ -17,7 +17,9 @@ Visualisation : Excel, Power BI
 Outils : Git, GitHub
 
 
-📂 ## Projets
+📂 
+## Projets
+
 🔹 Analyse de données SQL – requêtes, jointures, agrégations
 
 🔹 Analyse exploratoire en Python – Pandas, NumPy, visualisation
@@ -25,18 +27,21 @@ Outils : Git, GitHub
 🔹 Tableaux de bord Power BI – indicateurs de performance
 
 
-🎓 ## Formation
+🎓 
+## Formation
 
 Diplôme d’études collégiales (DEC) – Analyse de données
 Collège La Cité, Ottawa, Canada (2024 – 2026, en cours)
 
-🤝 Bénévolat
+🤝 
+## Bénévolat
 
 Bénévole – Association étudiante du Collège La Cité | Les YOTESPACKS ( Aout2024 – présent)
 Bénévole – Collège La Cité | Service D'accompagnement International (SAI) (Fevrier - présent)
 
 
-🌍 Langues
+🌍 
+## Langues
 
 Français : Excellent
 
