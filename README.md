@@ -39,8 +39,8 @@ Collège La Cité, Ottawa, Canada (2024 – 2026, en cours)
 Bénévole – Association étudiante du Collège La Cité | Les YOTESPACKS ( Aout2024 – présent)
 Bénévole – Collège La Cité | Service D'accompagnement International (SAI) (Fevrier - présent)
 
-##Experiences professionnelles
-Commis decompte commerciaux/guichet  Chez Gardaworld  Permanent à temps partiel  sept. 2024 - aujourd’hui
+## Experiences professionnelles
+Commis decompte commerciaux/guichet  Chez Gardaworld- Gatineau  Permanent à temps partiel  sept. 2024 - aujourd’hui
 Assurer la réception et l'ouverture des colis en provenance du transport de valeurs.
 Utiliser des équipements de traitement a haute vitesse pour vérifier, trier et compter les devises, les pièces de monnaie et les chèques de nos clients.
 Préparer des fonds de change pour les clients commerciaux.
